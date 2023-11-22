@@ -17,7 +17,7 @@ Construir uma aplicação que facilitaria a aplicação de consultas, uma liberd
 
 #### Instalando Nodejs
 
-Primeiramente é necesário instalar o **Nodejs**.
+Primeiramente é necesário baixar o **Nodejs**.
 
 Link <https://nodejs.org/en/download>
 
@@ -70,11 +70,37 @@ Após esses passos abra o prompt de comando e digite "node -v" e verifique qual 
 Com a confirmação da versão do nodejs em seu computador 
 você finalmente concluiu todos os passos necessários para a instalação
 
-#### Instalações Extras
+#### Instalando e usando Vscode
 
-Crie um fork do projeto e abra no **Vscode** de preferência.
+Primeiro é necessário baixar o **Vscode**
 
 Link para o Vscode: <https://code.visualstudio.com/download>
+
+##### Baixando
+
+Clicando na seta irão aparecer algumas opções de download
+apenas se certifique de baixar a opção compatível
+com seu sistema operacional
+
+De preferência baixe a versão estável
+
+##### Arquivo
+
+Executando o arquivo você deverá concordar com os termos de licença
+e clicar em próximo
+
+Irá aparecer algumas opções de instalar tarefas adicionais 
+selecione a seu critério e clique em avançar
+
+Aguarde a instalação
+
+Com o término da instalação clique em concluir
+
+Após essas etapas o Vscode irá estar disponível para uso
+
+##### Testando
+
+Crie um fork do projeto e abra no **Vscode** de preferência.
 
 Abra o terminal do **Vscode** ou o terminal do próprio computador (O importante é que esteja aberto no projeto) e digite o comando "npm install".
 
@@ -84,9 +110,29 @@ Verificar se apareceu a mensagem “servidor está ouvindo na porta e um link de
 
 #### Instalando o Postman
 
+Primeiro é necessário baixar o **Postman**
+
 Link: <https://www.postman.com/downloads/>
 
-Após baixar o **Postman** no seu computador baixe o arquivo postman na pasta docs do projeto no **github**.
+##### Baixando
+
+Na página irá aparecer um botão laranja com o arquivo recomendado
+para o seu sistema operacional, caso queira instalar o arquivo
+com outro sistema operacional logo abaixo do botão tem a opção
+de escolher o tipo de arquivo para um sistema operacional diferente
+
+Decida a opção de 32 bits ou 64 dependendo de seu computador
+
+##### Executando pela primeira vez
+
+Execute o arquivo baixado e faça o login com sua conta ou
+crie uma conta
+
+##### Testando
+
+Após baixar o **Postman** no seu computador baixe o arquivo postman na pasta docs do projeto no **github**
+
+Para
 
 Abra o **Postman** integrado ao **Vscode**.
 
