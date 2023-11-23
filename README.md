@@ -136,6 +136,6 @@ Para
 
 Abra o **Postman** integrado ao **Vscode**.
 
-Clique no "Send" pelo **Postman** e todas as informações serão mostradas.
+Clique no "Send" pelo **Postman** e todas as informações serão mostradas
 
 _E pronto! Você conseguiu testar o back-end do projeto._
